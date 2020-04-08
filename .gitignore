@@ -1,0 +1,6 @@
+yolo3/__pycache__/utils.cpython-35.pyc
+yolo3/__pycache__/
+.idea/
+__pycache__/
+yolov3.weights
+model_data/yolo_weights.h5
