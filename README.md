@@ -1,4 +1,4 @@
-yolov3-self
+yolov3-Finetuning
 =============
 Instructions
 ----------
